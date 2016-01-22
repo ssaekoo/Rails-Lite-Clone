@@ -33,11 +33,11 @@ end
 module Associatable
   # Phase IIIb
   def belongs_to(name, options = {})
-    # ...
+    
   end
 
   def has_many(name, options = {})
-    # ...
+
   end
 
   def assoc_options
